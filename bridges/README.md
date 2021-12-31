@@ -9,6 +9,10 @@ There's no question that interoperability between chains is going to be paramoun
 #### MOVR Network
 Product: FundMovr. See their introductory announcement [here](https://medium.com/movr-network/introducing-fundmovr-seamless-cross-chain-bridging-afc5606f3fb5).
 
+#### ChainBridge
+Modular multi-network bridge (EVM, Cosmos, Substrate): https://github.com/ChainSafe/ChainBridge
+
+
 ## Resources
 - L2 beat
 - dune dashboard
