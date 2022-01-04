@@ -81,3 +81,20 @@ https://ethereum.stackexchange.com/questions/27452/how-to-estimate-gas-cost
 - [Paradigm Research ](https://www.paradigm.xyz/writing/)
 - [Gitcoin grants](https://gitcoin.co/grants/explorer?page=3&limit=12&me=false&sort_option=-amount_received&collection_id=false&network=mainnet&state=active&profile=false&sub_round_slug=false&collections_page=1&grant_regions=&grant_types=&grant_tags=&tenants=&idle=false&featured=true&round_type=false)
   - A true treasure trove of great projects
+- AMMs:
+  - [Allocation of Fungible Resources via a Fast, Scalable Price Discovery Method](https://arxiv.org/abs/2104.00282)
+  - [Outstanding paper explaining AMMs](https://stanford.edu/~guillean/papers/cfmm-chapter.pdf)
+
+## Opsec + Cryptography
+- Library for multisigs (ECDSA, Bitcoin's Taproot): https://github.com/taurusgroup/multi-party-sig
+- [Hardware wallet setups](https://docs.google.com/document/d/1kT5ITtr33T0kzR1dWjNPQNh7n74NvH_Lpm5i8lUzLe4/)
+- https://frame.sh/
+- Hardware wallets
+  - GridPlus
+  - Trezor
+  - Ledger
+  - KeepKey
+
+## Interesting contracts
+- [OpenDAO token](https://etherscan.io/address/0x3b484b82567a09e2588a13d54d032153f0c0aee0#code)
+  - https://www.theopendao.com/
